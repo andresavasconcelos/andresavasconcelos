@@ -28,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andresavasconcelos/andresavasconcelos/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/andresavasconcelos/andresavasconcelos/output/snake.svg" alt="Snake animation" />
 
 ###
